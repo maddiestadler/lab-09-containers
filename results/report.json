@@ -1,0 +1,95 @@
+{
+  "documents": 101,
+  "runs_by_machine": [
+    {
+      "host": "169.254.23.121",
+      "books": 1
+    },
+    {
+      "host": "1874bde40375",
+      "books": 3
+    },
+    {
+      "host": "5b6ecba831cf",
+      "books": 1
+    },
+    {
+      "host": "Madelines-MacBook-Pro.local",
+      "books": 3
+    },
+    {
+      "host": "a6e2cf92b914",
+      "books": 101
+    },
+    {
+      "host": "ip-172-31-20-87",
+      "books": 100
+    },
+    {
+      "host": "udc-aw37-1",
+      "books": 1
+    }
+  ],
+  "last_processed": [
+    {
+      "_id": "pg996.txt",
+      "author": "Miguel de Cervantes Saavedra",
+      "bucket": "public-madelinestadler",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-20-87",
+          "at": "2026-11-05 00:12:52.291000"
+        },
+        {
+          "host": "a6e2cf92b914",
+          "at": "2026-11-19 04:06:51.302000"
+        }
+      ],
+      "title": "Don Quixote",
+      "unique_words": 15574,
+      "vocabulary_ratio": 0.0359,
+      "word_count": 433304
+    },
+    {
+      "_id": "pg98.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-madelinestadler",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-20-87",
+          "at": "2026-11-05 00:12:51.824000"
+        },
+        {
+          "host": "a6e2cf92b914",
+          "at": "2026-11-19 04:06:50.883000"
+        }
+      ],
+      "title": "A Tale of Two Cities",
+      "unique_words": 9698,
+      "vocabulary_ratio": 0.07,
+      "word_count": 138490
+    },
+    {
+      "_id": "pg963.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-madelinestadler",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-20-87",
+          "at": "2026-11-05 00:12:51.544000"
+        },
+        {
+          "host": "a6e2cf92b914",
+          "at": "2026-11-19 04:06:50.634000"
+        }
+      ],
+      "title": "Little Dorrit",
+      "unique_words": 14784,
+      "vocabulary_ratio": 0.0428,
+      "word_count": 345231
+    }
+  ]
+}
